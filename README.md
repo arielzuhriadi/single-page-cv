@@ -1,2 +1,2 @@
 # single-page-cv
-project front end
+https://github.com/arielzuhriadi/single-page-cv
